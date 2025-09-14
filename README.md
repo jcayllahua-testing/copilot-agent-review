@@ -1,4 +1,4 @@
-# copilot-agent-review
+# Copilot-agent-review
 
 This repository is intended for testing various GitHub features related to Copilot Review in pull requests, as well as experimenting with additional PR configurations.
 
