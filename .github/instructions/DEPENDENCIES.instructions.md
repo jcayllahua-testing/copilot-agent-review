@@ -1,6 +1,7 @@
 ---
-applyTo: "*.gradle"
+applyTo: "**/*.gradle"
 ---
+
 When performing a code review make sure this file type has at least one of the following strings:
 - "implementation 'org.springframework.boot:spring-boot-starter-data-r2dbc'"
 - "runtimeOnly 'io.r2dbc:r2dbc-h2'"
