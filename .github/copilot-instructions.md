@@ -1,17 +1,1 @@
-When creating pull request descriptions:
-## PR Description Template
-**What changed**
-- Clear summary
-- Link to related issues
-
-**Why**
-- Business context
-- Technical reasoning
-
-**Testing**
-- [ ] Unit tests
-- [ ] Manual checks
-
-**Breaking Changes**
-- List API changes
-- Migration instructions
+When performing a code review and have the build.gradle file, check the whole file and mention in the pull request review is the jpa dependency is missing
