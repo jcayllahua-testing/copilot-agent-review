@@ -6,3 +6,4 @@ function add(a, b) {
 
 console.log("Hello, world!");
 console.log("2 + 3 =", add(2, 3));
+console.log(2+1);
